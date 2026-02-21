@@ -1,7 +1,7 @@
 {
-  "name": "Christine's CustodyLog",
-  "short_name": "CustodyLog",
-  "description": "Private custody incident documentation tracker",
+  "name": "Christine's Custody Log",
+  "short_name": "Custody Log",
+  "description": "Private custody documentation — incidents and positive moments",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f1117",
